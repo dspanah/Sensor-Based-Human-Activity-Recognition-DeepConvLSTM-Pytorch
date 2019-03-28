@@ -1,9 +1,10 @@
-DeepConvLSTM_Pytorch
+HAR_DeepConvLSTM_Pytorch
 ==============================
 
-Conversion of DeepConvLSTM model in pytorch
+Implementation of DeepConvLSTM model in pytorch and python3.
+To train the model open up jupyter notebook under notebook directory and follow the instructions.
 
-The implementation is based on "Deep Convolutional and LSTM Recurrent Neural Networks for Multimodal Wearable Activity Recognition" paper avaiable at <http://www.mdpi.com/1424-8220/16/1/115/html>
+This implementation is based on "Deep Convolutional and LSTM Recurrent Neural Networks for Multimodal Wearable Activity Recognition" paper avaiable at <http://www.mdpi.com/1424-8220/16/1/115/html>
 
 The original code has been implemented using Lasange framework which is available at <https://github.com/sussexwearlab/DeepConvLSTM>
 
