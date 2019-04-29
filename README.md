@@ -1,4 +1,4 @@
-HAR_DeepConvLSTM_Pytorch
+Sensor-Based-Human-Activity-Recognition-DeepConvLSTM-Pytorch
 ==============================
 
 Implementation of DeepConvLSTM model in pytorch and python3.
