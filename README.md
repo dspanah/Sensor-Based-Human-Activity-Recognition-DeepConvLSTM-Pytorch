@@ -1,5 +1,4 @@
-Sensor-Based-Human-Activity-Recognition-DeepConvLSTM-Pytorch
-==============================
+## Overview
 
 Implementation of DeepConvLSTM model in pytorch and python3.
 To train the model open up jupyter notebook under notebooks directory and follow the instructions.
@@ -18,15 +17,11 @@ Project Organization
     │   ├── processed      <- The final, canonical data sets for modeling.
     │   └── raw            <- The original, immutable data dump.
     │
-    ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
-    │
     ├── models             <- Trained and serialized models, model predictions, or model summaries
     │
     ├── notebooks          <- Jupyter notebooks.
     │   └── 1.0-dsp-DeepConvLSTM.ipynb  <- Jupyter notebook file with step by step instructions
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-    │   └── figures        <- Generated graphics and figures to be used in reporting
-    │
+    |
     ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
     └── src                <- Source code for use in this project.
         ├── __init__.py    <- Makes src a Python module
