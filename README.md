@@ -7,6 +7,10 @@ This implementation is based on "Deep Convolutional and LSTM Recurrent Neural Ne
 
 The original source code has been implemented using Lasange framework which is available at <https://github.com/sussexwearlab/DeepConvLSTM>
 
+## Dependencies
+
+- Python 3 <br/>
+- Pytorch
 
 Project Organization
 ------------
